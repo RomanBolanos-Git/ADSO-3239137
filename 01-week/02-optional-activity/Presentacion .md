@@ -1,5 +1,5 @@
 # Presentación de román 
-## datos del aprendiz
+## datos del aprendíz
 - fullname: **Román Alberto Bolaños Cerquera**
 - programa de formación: **Análisis en desarrllo de software ADSO**
 - institución: **SENA**
@@ -7,7 +7,7 @@
 
 ---
 
-## Objetivo por el cual ingrese
+## Objetivo por el cual ingresé
 - Estudio desarrllo de sofware en la universidad surcolombiana de neiva, y me he percatado que no es facil conseguir trabajo como programador,
 viendo que el sena ofrece la oportunidad de empleo al terminar la etapa lectiva, opte por inscribirme, para de esa manera no sufrir tanto con el 
 trabajo.
